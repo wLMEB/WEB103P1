@@ -2,7 +2,7 @@
 
 Submitted by: *Wanqi Li
 
-About this web app: **App description here**
+About this web app: Libraries in CWMars system!
 
 Time spent: 2 hours
 
@@ -34,10 +34,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/wLMEB/WEB103P1/blob/main/walk-through.gif' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  Add GIF tool here
+GIF created with LiceCap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
