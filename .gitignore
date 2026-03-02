@@ -1,0 +1,7 @@
+node_modules/
+dist/
+server/public/
+.env
+.DS_Store
+templet.txt
+project.txt
